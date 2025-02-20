@@ -1,11 +1,9 @@
 ---
-in---
 title: "swalsh36.github.io"
-image:
 about:
-  template:Sean
+  template: trestles
   image-shape: rectangle
-  image-width: 10em
+  image-width: 11cm
   links: 
     - text: linkedIn
       href: //https://www.linkedin.com/IloveESS/
