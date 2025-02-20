@@ -1,5 +1,16 @@
 ---
+in---
 title: "swalsh36.github.io"
+image:
+about:
+  template:Sean
+  image-shape: rectangle
+  image-width: 10em
+  links: 
+    - text: linkedIn
+      href: //https://www.linkedin.com/IloveESS/
+    - text:Email
+      href://sean123@colostate.edu
 ---
 
 This is a Quarto website.
